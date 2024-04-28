@@ -10,3 +10,4 @@ if word in meme_sozlugu.keys():
     print(meme_sozlugu[word])
 else:
     print("Henüz bu kelimeye sahip değiliz... Ama üzerinde çalışıyoruz!")
+ecem
